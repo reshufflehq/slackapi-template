@@ -1,12 +1,14 @@
 {
-  "name": "express-only",
+  "name": "slackapi-reshuffle",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@reshuffle/code-transform": "^0.1.0",
-    "@reshuffle/db": "^0.5.4",
+    "@reshuffle/db": "^0.5.5",
+    "@reshuffle/fetch-runtime": "^0.1.0",
     "@reshuffle/local-proxy": "^0.3.1",
-    "@reshuffle/server-function": "^0.1.0",
+    "@reshuffle/server-function": "^0.2.2",
+    "@slack/bolt": "^1.4.1",
     "express": "^4.17.1"
   },
   "scripts": {
