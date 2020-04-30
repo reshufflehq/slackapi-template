@@ -1,3 +1,5 @@
+# We have terminated the backend for this project.  Old Reshuffle projects can no longer be deployed.
+
 # SlackAPI Reshuffle template
 
 SlackAPI template for Reshuffle which includes a simple example bot. Uses [bolt](https://github.com/slackapi/bolt) under the hood, which is a succinct and powerful wrapper for the Slack API.
